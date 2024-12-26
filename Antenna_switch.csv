@@ -1,0 +1,7 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"D1,D2,D3,D4,D5","Z2SMBxxx","https://diotec.com/tl_files/diotec/files/pdf/datasheets/z2smb1.pdf","Diode_SMD:D_SMB","5",""
+"K1,K2,K3,K4,K5","G6K-2","http://omronfs.omron.com/en_US/ecb/products/pdf/en-g6k.pdf","Relay_SMD:Relay_DPDT_Omron_G6K-2F-Y","5",""
+"Q1,Q2,Q3,Q4,Q5","BC849","http://www.infineon.com/dgdl/Infineon-BC847SERIES_BC848SERIES_BC849SERIES_BC850SERIES-DS-v01_01-en.pdf?fileId=db3a304314dca389011541d4630a1657","Package_TO_SOT_SMD:SOT-23","5",""
+"R1,R2","R_1206 1k","~","PCM_Resistor_SMD_AKL:R_1206_3216Metric","2",""
+"R3,R4,R5,R6","R_1206","~","PCM_Resistor_SMD_AKL:R_1206_3216Metric","4",""
+"U4,U5","~","","Lötpads:Lötpad_5_5","2",""
